@@ -1,0 +1,21 @@
+{
+  "name": "Site",
+  "homepage": "https://github.com/Lnhaca/criacao-do-novo-site-do-ispt",
+  "authors": [
+    "lnhacanhaca <luis.jnhacanhaca@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
