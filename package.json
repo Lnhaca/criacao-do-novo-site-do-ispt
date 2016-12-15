@@ -1,0 +1,22 @@
+{
+  "name": "site-oficial-do-ispt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lnhaca/criacao-do-novo-site-do-ispt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lnhaca/criacao-do-novo-site-do-ispt/issues"
+  },
+  "homepage": "https://github.com/Lnhaca/criacao-do-novo-site-do-ispt#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
